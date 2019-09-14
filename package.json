@@ -1,0 +1,11 @@
+{
+  "name": "cursogempe",
+  "version": "1.0.0",
+  "description": "Curso de Boas praticas dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Bobra",
+  "license": "ISC"
+}
